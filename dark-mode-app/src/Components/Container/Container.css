@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+}
+
+.dark-Mode-On{
+    background-color: rgb(247, 0, 0);
+}
+
+.dark-Mode-Off{
+    background-color: rgb(216, 216, 200);
+}
