@@ -1,0 +1,32 @@
+.dark-mode .dark-mode-active{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.btn-dark-mode{
+    width: 200px;
+    height: 35px;
+    border: none;
+    border-radius: 15px;
+    display: flex;
+    /* justify-content: space-between; */
+    position: absolute;
+}
+
+.dmIconS{
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+.dmIconS{
+    position: relative;
+    left: 80%;
+    border: 1px solid red;
+    border-radius: 50%;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+}
